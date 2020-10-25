@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minecraft.jl",
+  "name": "Julia-Hook",
+  "description": "An simple hook for Julia.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bloeckchengrafik"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
